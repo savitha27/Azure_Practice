@@ -1,2 +1,2 @@
 # Azure_Practice
-Azure devops practice
+Welcome to Azure devops practice class!
